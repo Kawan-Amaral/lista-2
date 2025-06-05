@@ -1,0 +1,8 @@
+E:\Ex_2\Ex_2\bin\Debug\Ex_2.exe.config
+E:\Ex_2\Ex_2\bin\Debug\Ex_2.exe
+E:\Ex_2\Ex_2\bin\Debug\Ex_2.pdb
+E:\Ex_2\Ex_2\obj\Debug\Ex_2.csproj.AssemblyReference.cache
+E:\Ex_2\Ex_2\obj\Debug\Ex_2.csproj.SuggestedBindingRedirects.cache
+E:\Ex_2\Ex_2\obj\Debug\Ex_2.csproj.CoreCompileInputs.cache
+E:\Ex_2\Ex_2\obj\Debug\Ex_2.exe
+E:\Ex_2\Ex_2\obj\Debug\Ex_2.pdb
