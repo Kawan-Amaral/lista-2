@@ -1,0 +1,7 @@
+D:\Ex_11\Ex_11\bin\Debug\Ex_11.exe.config
+D:\Ex_11\Ex_11\bin\Debug\Ex_11.exe
+D:\Ex_11\Ex_11\bin\Debug\Ex_11.pdb
+D:\Ex_11\Ex_11\obj\Debug\Ex_11.csproj.AssemblyReference.cache
+D:\Ex_11\Ex_11\obj\Debug\Ex_11.csproj.CoreCompileInputs.cache
+D:\Ex_11\Ex_11\obj\Debug\Ex_11.exe
+D:\Ex_11\Ex_11\obj\Debug\Ex_11.pdb
