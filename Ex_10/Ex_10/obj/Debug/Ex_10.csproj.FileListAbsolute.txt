@@ -1,0 +1,7 @@
+D:\Ex_10\Ex_10\bin\Debug\Ex_10.exe.config
+D:\Ex_10\Ex_10\bin\Debug\Ex_10.exe
+D:\Ex_10\Ex_10\bin\Debug\Ex_10.pdb
+D:\Ex_10\Ex_10\obj\Debug\Ex_10.csproj.AssemblyReference.cache
+D:\Ex_10\Ex_10\obj\Debug\Ex_10.csproj.CoreCompileInputs.cache
+D:\Ex_10\Ex_10\obj\Debug\Ex_10.exe
+D:\Ex_10\Ex_10\obj\Debug\Ex_10.pdb
